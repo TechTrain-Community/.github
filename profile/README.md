@@ -1,3 +1,3 @@
 # TechTrain Community
 
-この Organization は TechTrain (techtrain.dev) の利用者のコミュニティです
+この Organization は TechTrain (https://techtrain.dev) の利用者のコミュニティです
